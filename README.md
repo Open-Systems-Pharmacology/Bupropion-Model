@@ -21,4 +21,4 @@ We encourage contribution to the Open Systems Pharmacology community. Before get
 The model is distributed under the [GPLv2 Lincense](https://github.com/Open-Systems-Pharmacology/Suite/blob/develop/LICENSE).
 
 ## Reference
-[Marok FZ, Fuhr LM, Hanke N, Selzer D, Lehr T. Physiologically Based Pharmacokinetic Modeling of Bupropion and Its Metabolites in a CYP2B6 Drug-Drug-Gene Interaction Network. Pharmaceutics. 2021; 13(3),331](https://www.mdpi.com/1999-4923/13/3/331/htm)
+[[1] Marok FZ, Fuhr LM, Hanke N, Selzer D, Lehr T. Physiologically Based Pharmacokinetic Modeling of Bupropion and Its Metabolites in a CYP2B6 Drug-Drug-Gene Interaction Network. Pharmaceutics. 2021; 13(3),331](https://www.mdpi.com/1999-4923/13/3/331/htm)
